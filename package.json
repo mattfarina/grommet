@@ -20,6 +20,9 @@
   "bin": {
     "grommet": "./bin/grommet.js"
   },
+  "files": [
+    "src/"
+  ],
   "engines": {
     "node": ">= 0.9"
   },
